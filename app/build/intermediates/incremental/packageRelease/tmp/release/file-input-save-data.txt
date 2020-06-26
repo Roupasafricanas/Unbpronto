@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Jun 25 05:33:19 BRT 2020
+2.base=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+5.set=ASSET
+0.path=config.json
+2.baseType=DIRECTORY
+3.base=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+2.set=DEX
+1.path=fonts/Roboto-Regular.ttf
+4.base=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\assets\\release
+count=6
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\assets\\release
+4.set=ASSET
+3.path=classes2.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=overview.json
+1.baseType=DIRECTORY
+5.path=fonts/Roboto-Light.ttf
+0.base=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\assets\\release
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\assets\\release
+4.baseType=DIRECTORY
+0.set=ASSET

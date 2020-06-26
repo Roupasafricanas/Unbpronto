@@ -1,0 +1,7 @@
+#Thu Jun 25 05:33:19 BRT 2020
+base.0=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0

@@ -1,0 +1,881 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:137:9-145:20
+	android:grantUriPermissions
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:141:13-47
+	android:authorities
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:139:13-60
+	android:exported
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:138:13-67
+provider#com.google.firebase.provider.FirebaseInitProvider
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:147:9-150:34
+REJECTED from [com.google.firebase:firebase-common:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.0.aar\84bda3fdd33ca2af9712cd424745b752\AndroidManifest.xml:8:9-12:39
+	tools:node
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:150:13-32
+	android:authorities
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:147:19-78
+	android:exported
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:149:13-37
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:148:13-77
+manifest
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+MERGED from [com.devbrackets.android:exomedia:4.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exomedia-4.0.3.aar\2f618c5d8585b170100853c290d93e0d\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.4.3.aar\a9f66c795d746897e0a270c3c9c83f57\AndroidManifest.xml:17:1-25:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\7084beb0bc359aafd270c2c56886d298\AndroidManifest.xml:2:1-12:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:2:1-14:12
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:2:1-122:12
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.2] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\rtl-viewpager-1.0.2.aar\dac0b830d8fb13f20c8f82e0d0a3c5bd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\PhotoView-1.3.0.aar\800186c03d020d7b3e89eb0627e51c82\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5c6a7c3e270893e2e9bd93b5fe04c87b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ce025cf2e9fecd391a94a59b11aa4fe9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e63fd1cb654e55fc7cbf4c8eb48878af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8377d7a3c93bfb2b5f34f4fedc5ea2f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e661addaaade7a533b25d175871c1117\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\d68997534d49922f78110cc99605beee\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\12b253312c29349e26e89116285f0ecd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\30f7fa72e5e5388555bfe49a6c9cec72\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.0.aar\516d0b6feca0b145604ab5959cc0bb1d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\7fcd392a73034b628097e508a25d1ad1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.0.aar\84bda3fdd33ca2af9712cd424745b752\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\db5709250f5535cf129671e3f411669f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\e189248a563d24f3ff1844967241b7cf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2dd6b6ebb0c696eb584c8e08b72c4c31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.3.aar\753f776b1d30e5e698cde7190a5d8894\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e5da95a1f4dd687d1ea6ad5e6ab33f46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\b0635d4b886c51e49b914f245f393c40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a27c15e360642c2eec22718b6383e72d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e682995733f87d297185dfa61a37a949\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f7269878cd0ac9d835e542402b525203\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\17cf58ec14ef6c3952f3c8218070df67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-r2.4.3.aar\be3236b61818979a88b1486cf5e05341\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-r2.4.3.aar\a6e79d115c681cc3f9c4bc6b0e3de045\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.4.3.aar\f69e73b57f072ded1bfdd3bd8dda3eab\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.3.aar\5b26f9f1492a4ed396a04009c7075131\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\bbfea86de5311986ef2ed51a72668721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb54b7138e2d8d077316b293ed3eec6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e088209436a955688fc752dc619d4658\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0c3a7ec3b82394ca977829b8b145a821\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8029e66d55abb9d3a525f84100e1412e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\2e8ad2901180000a95e3ce0a905444bc\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abb94427c633519804b729b174c86fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\032038f9d09f4bc54e7c3399d96a85bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0feeab27c104ef0a3f124904a3689c56\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d306c55e27ef5b1390f184305648484\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:1-155:12
+	package
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:24:5-79
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:16:5-67
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:17:5-68
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:18:5-68
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:18:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:19:5-98
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:19:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:24:22-72
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:26:5-72
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:26:22-69
+uses-permission#com.android.vending.BILLING
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:28:22-64
+uses-feature#0x00020000
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:30:5-32:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:31:9-41
+	android:required
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:32:9-32
+application
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:34:5-153:19
+MERGED from [com.devbrackets.android:exomedia:4.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exomedia-4.0.3.aar\2f618c5d8585b170100853c290d93e0d\AndroidManifest.xml:12:5-20
+MERGED from [com.devbrackets.android:exomedia:4.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exomedia-4.0.3.aar\2f618c5d8585b170100853c290d93e0d\AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:7:5-12:19
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:48:5-120:19
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:48:5-120:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\12b253312c29349e26e89116285f0ecd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\12b253312c29349e26e89116285f0ecd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\30f7fa72e5e5388555bfe49a6c9cec72\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\30f7fa72e5e5388555bfe49a6c9cec72\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.0.aar\516d0b6feca0b145604ab5959cc0bb1d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.0.aar\516d0b6feca0b145604ab5959cc0bb1d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\7fcd392a73034b628097e508a25d1ad1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\7fcd392a73034b628097e508a25d1ad1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.0.aar\84bda3fdd33ca2af9712cd424745b752\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.0.aar\84bda3fdd33ca2af9712cd424745b752\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\db5709250f5535cf129671e3f411669f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\db5709250f5535cf129671e3f411669f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\e189248a563d24f3ff1844967241b7cf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\e189248a563d24f3ff1844967241b7cf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8029e66d55abb9d3a525f84100e1412e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8029e66d55abb9d3a525f84100e1412e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\2e8ad2901180000a95e3ce0a905444bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\2e8ad2901180000a95e3ce0a905444bc\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:38:9-41
+	android:icon
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:37:9-45
+	android:allowBackup
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:40:9-40
+	tools:replace
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:41:9-37
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:35:9-28
+activity#com.sherdle.universal.MainActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:44:9-53:20
+	android:label
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:47:13-45
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:45:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.sherdle.universal.providers.rss.ui.RssDetailActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:54:9-72
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:54:19-69
+activity#com.sherdle.universal.providers.youtube.ui.YoutubeDetailActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:55:9-80
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:55:19-77
+activity#com.sherdle.universal.providers.wordpress.ui.WordpressDetailActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:56:9-84
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:56:19-81
+activity#com.sherdle.universal.providers.woocommerce.ui.ProductActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:57:9-78
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:57:19-75
+activity#com.sherdle.universal.comments.CommentsActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:58:9-60:62
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:60:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:59:13-54
+activity#com.sherdle.universal.HolderActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:61:9-63:62
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:63:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:62:13-43
+activity#com.sherdle.universal.attachmentviewer.ui.AttachmentActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:64:9-66:62
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:66:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:65:13-67
+activity#com.sherdle.universal.attachmentviewer.ui.AudioPlayerActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:67:9-69:62
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:69:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:68:13-68
+activity#com.sherdle.universal.attachmentviewer.ui.VideoPlayerActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:70:9-72:62
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:72:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:71:13-68
+activity#com.sherdle.universal.providers.woocommerce.ui.CheckoutActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:73:9-75:62
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:75:13-59
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:74:13-70
+activity#com.sherdle.universal.providers.woocommerce.ui.WooCommerceLoginActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:76:9-79:71
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:78:13-59
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:77:13-78
+activity#com.sherdle.universal.providers.tumblr.ui.TumblrPagerActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:80:9-82:69
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:82:13-66
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:81:13-68
+activity#com.sherdle.universal.providers.youtube.player.YouTubePlayerActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:83:9-87:80
+	android:screenOrientation
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:86:13-47
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:85:13-74
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:87:13-77
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:84:13-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:88:9-91:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:90:13-122
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:91:13-61
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:89:13-65
+activity#com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:92:9-93:76
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:23:9-25:57
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:23:9-25:57
+	android:label
+		ADDED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:25:13-54
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:93:13-74
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:92:19-93
+activity#com.google.android.gms.oss.licenses.OssLicensesActivity
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:94:9-95:76
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:26:9-92
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:26:9-92
+	android:theme
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:95:13-74
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:94:19-89
+service#com.sherdle.universal.providers.soundcloud.player.player.PlaybackService
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:98:9-100:40
+	android:exported
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:100:13-37
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:99:13-79
+service#com.sherdle.universal.providers.radio.player.RadioService
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:101:9-72
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:101:18-69
+service#com.sherdle.universal.attachmentviewer.MusicService
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:102:9-66
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:102:18-63
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:110:9-114:20
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:110:19-86
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:111:13-113:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:112:17-77
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:112:25-74
+receiver#com.sherdle.universal.providers.soundcloud.player.player.PlayerReceiver
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:115:9-119:20
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:115:19-84
+intent-filter#action:name:android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:116:13-118:29
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:117:17-77
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:117:25-74
+receiver#com.sherdle.universal.providers.soundcloud.player.media.MediaSessionReceiver
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:120:9-124:20
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:120:19-89
+meta-data#com.onesignal.NotificationOpened.DEFAULT
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:127:9-129:39
+	android:value
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:129:13-36
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:128:13-68
+meta-data#com.google.android.gms.version
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:130:9-132:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:132:13-66
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:131:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:133:9-135:58
+	android:value
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:135:13-55
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:134:13-62
+uses-sdk
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+MERGED from [com.devbrackets.android:exomedia:4.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exomedia-4.0.3.aar\2f618c5d8585b170100853c290d93e0d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.devbrackets.android:exomedia:4.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exomedia-4.0.3.aar\2f618c5d8585b170100853c290d93e0d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.4.3.aar\a9f66c795d746897e0a270c3c9c83f57\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.4.3.aar\a9f66c795d746897e0a270c3c9c83f57\AndroidManifest.xml:21:5-23:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\7084beb0bc359aafd270c2c56886d298\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\7084beb0bc359aafd270c2c56886d298\AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:5:5-44
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:4:5-44
+MERGED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:4:5-44
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.2] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\rtl-viewpager-1.0.2.aar\dac0b830d8fb13f20c8f82e0d0a3c5bd\AndroidManifest.xml:21:5-23:41
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.2] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\rtl-viewpager-1.0.2.aar\dac0b830d8fb13f20c8f82e0d0a3c5bd\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\PhotoView-1.3.0.aar\800186c03d020d7b3e89eb0627e51c82\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:1.3.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\PhotoView-1.3.0.aar\800186c03d020d7b3e89eb0627e51c82\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5c6a7c3e270893e2e9bd93b5fe04c87b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5c6a7c3e270893e2e9bd93b5fe04c87b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ce025cf2e9fecd391a94a59b11aa4fe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\ce025cf2e9fecd391a94a59b11aa4fe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e63fd1cb654e55fc7cbf4c8eb48878af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e63fd1cb654e55fc7cbf4c8eb48878af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-oss-licenses-15.0.0.aar\c6aaddc7ac40ef74b011b52a19dd306f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8377d7a3c93bfb2b5f34f4fedc5ea2f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8377d7a3c93bfb2b5f34f4fedc5ea2f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e661addaaade7a533b25d175871c1117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e661addaaade7a533b25d175871c1117\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\d68997534d49922f78110cc99605beee\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\d68997534d49922f78110cc99605beee\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\9023eda392e0c6c8734d7219e13f9cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\12b253312c29349e26e89116285f0ecd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\12b253312c29349e26e89116285f0ecd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\30f7fa72e5e5388555bfe49a6c9cec72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\30f7fa72e5e5388555bfe49a6c9cec72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.0.aar\516d0b6feca0b145604ab5959cc0bb1d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.0.aar\516d0b6feca0b145604ab5959cc0bb1d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\406366beee12aa5949c7fa5c48108c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\7fcd392a73034b628097e508a25d1ad1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\7fcd392a73034b628097e508a25d1ad1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.0.aar\84bda3fdd33ca2af9712cd424745b752\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.0.aar\84bda3fdd33ca2af9712cd424745b752\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\db5709250f5535cf129671e3f411669f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\db5709250f5535cf129671e3f411669f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\e189248a563d24f3ff1844967241b7cf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\e189248a563d24f3ff1844967241b7cf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\946c8c328929098c4221b9bb5863c15d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2dd6b6ebb0c696eb584c8e08b72c4c31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2dd6b6ebb0c696eb584c8e08b72c4c31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.3.aar\753f776b1d30e5e698cde7190a5d8894\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.4.3.aar\753f776b1d30e5e698cde7190a5d8894\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e5da95a1f4dd687d1ea6ad5e6ab33f46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e5da95a1f4dd687d1ea6ad5e6ab33f46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\b0635d4b886c51e49b914f245f393c40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\b0635d4b886c51e49b914f245f393c40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a27c15e360642c2eec22718b6383e72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a27c15e360642c2eec22718b6383e72d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e682995733f87d297185dfa61a37a949\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e682995733f87d297185dfa61a37a949\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f7269878cd0ac9d835e542402b525203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f7269878cd0ac9d835e542402b525203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\17cf58ec14ef6c3952f3c8218070df67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\17cf58ec14ef6c3952f3c8218070df67\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\b754254912dc40c1d516d52eb91063dd\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-r2.4.3.aar\be3236b61818979a88b1486cf5e05341\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-r2.4.3.aar\be3236b61818979a88b1486cf5e05341\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-r2.4.3.aar\a6e79d115c681cc3f9c4bc6b0e3de045\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-r2.4.3.aar\a6e79d115c681cc3f9c4bc6b0e3de045\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.4.3.aar\f69e73b57f072ded1bfdd3bd8dda3eab\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.4.3.aar\f69e73b57f072ded1bfdd3bd8dda3eab\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.3.aar\5b26f9f1492a4ed396a04009c7075131\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.3] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.4.3.aar\5b26f9f1492a4ed396a04009c7075131\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\bbfea86de5311986ef2ed51a72668721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\bbfea86de5311986ef2ed51a72668721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb54b7138e2d8d077316b293ed3eec6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fb54b7138e2d8d077316b293ed3eec6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e088209436a955688fc752dc619d4658\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e088209436a955688fc752dc619d4658\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0c3a7ec3b82394ca977829b8b145a821\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0c3a7ec3b82394ca977829b8b145a821\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8029e66d55abb9d3a525f84100e1412e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8029e66d55abb9d3a525f84100e1412e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\2e8ad2901180000a95e3ce0a905444bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.0.aar\2e8ad2901180000a95e3ce0a905444bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abb94427c633519804b729b174c86fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abb94427c633519804b729b174c86fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\032038f9d09f4bc54e7c3399d96a85bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\032038f9d09f4bc54e7c3399d96a85bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0feeab27c104ef0a3f124904a3689c56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0feeab27c104ef0a3f124904a3689c56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d306c55e27ef5b1390f184305648484\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d306c55e27ef5b1390f184305648484\AndroidManifest.xml:20:5-44
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\d68997534d49922f78110cc99605beee\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:142:13-144:58
+	android:resource
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:144:17-55
+	android:name
+		ADDED from C:\src\reel universalapp-430\codecanyon-6512720-universal-full-multipurpose-android-app\Template\app\src\main\AndroidManifest.xml:143:17-67
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\e248509b2ced9eba31eeb7512f4e4962\AndroidManifest.xml:9:13-64
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:7:5-9:47
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:8:9-63
+permission#com.afroapaixonados.apps.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:7:5-9:47
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:8:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:11:22-76
+uses-permission#com.afroapaixonados.apps.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:11:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:17:5-82
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.0.aar\c8e6501c0dbf1e304bb8997ba580aa79\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.0.aar\1c4e6be592986e671fd76db1ad81539f\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:29:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:31:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:32:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:33:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:34:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:35:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:36:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:36:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:37:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:37:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:38:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:39:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:39:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:40:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:40:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:41:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:41:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:43:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:43:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:44:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:45:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:45:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:46:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:46:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:49:9-51:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:50:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:53:9-55:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:55:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:54:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:57:9-67:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:59:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:58:13-62
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:62:28-50
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.afroapaixonados.apps
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:62:13-66:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:62:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:63:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:63:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:65:27-58
+category#com.afroapaixonados.apps
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:65:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:68:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:68:19-74
+service#com.onesignal.HmsMessageServiceOneSignal
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:70:9-76:19
+	android:exported
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:71:13-68
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:73:13-75:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:74:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:74:25-78
+activity#com.onesignal.NotificationOpenedActivityHMS
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:78:9-84:20
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:80:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:79:13-71
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:81:13-83:29
+action#android.intent.action.VIEW
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:82:25-66
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:86:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:86:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:87:9-89:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:89:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:88:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:90:9-92:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:92:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:91:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:93:9-95:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:94:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:96:9-98:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:98:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:97:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:99:9-101:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:101:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:100:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:103:9-105:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:105:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:104:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:107:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:107:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:109:9-114:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:109:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:110:13-113:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:111:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:111:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:112:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:112:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:115:9-119:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:115:19-63
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:116:13-118:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:117:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.15.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\OneSignal-3.15.0.aar\eea2a681d7603dbcec30f5869e7bfb94\AndroidManifest.xml:117:25-81
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-messaging-15.0.0.aar\5250fdb1a2bc50be8c8cd36bcc41a156\AndroidManifest.xml:32:25-75
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-impl:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-15.0.0.aar\ed246a7e97838e31c964329bae0021a7\AndroidManifest.xml:36:13-84
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\4863865d938346828d9c333b98353cd2\AndroidManifest.xml:24:13-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:36:13-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.0.0] C:\Users\Licitacoes\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.0.0.aar\638a947a82fd0cfc639794e99084e584\AndroidManifest.xml:54:25-77

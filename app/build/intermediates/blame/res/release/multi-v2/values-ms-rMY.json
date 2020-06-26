@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\src\\reel universalapp-430\\codecanyon-6512720-universal-full-multipurpose-android-app\\Template\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ms-rMY\\values-ms-rMY.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Licitacoes\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.4.3.aar\\f69e73b57f072ded1bfdd3bd8dda3eab\\res\\values-ms-rMY\\values-ms-rMY.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,208,274,339,419,495",
+                        "endColumns": "76,75,65,64,79,75,68",
+                        "endOffsets": "127,203,269,334,414,490,559"
+                    }
+                }
+            ]
+        }
+    ]
+}

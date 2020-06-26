@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    This document contains:
+    -Required setup information
+    -Strings for translation
+
+    Notations:
+    -When a string value starts en ends with a " this is only to maintain spaces, the " will not be visible
+    -To do a line break, use \n and to escape characters use \character (e.g.: \" will make the " visible)
+
+    @author Sherdle
+    -->
+
+    <string name="app_name">Afroapaixonados</string>
+
+    <!-- API keys -->
+    <string name="twitter_api_consumer_key"></string>
+    <string name="twitter_api_consumer_secret_key"></string>
+
+    <string name="google_server_key"></string>
+    <string name="google_android_key"></string>
+
+    <string name="instagram_access_token"></string>
+    <string name="pinterest_access_token"></string>
+    <string name="facebook_access_token"></string>
+    <string name="soundcloud_id"></string>
+    <string name="flickr_key"></string>
+    <string name="tumblr_key"></string>
+
+    <string name="woocommerce_consumer_key">ck_110382249aa77aa7aa9b09e428dbd4dde4922a6c</string>
+    <string name="woocommerce_consumer_secret">cs_d0817f9a712eb527061e2e7fee05b3d808e8a8d3</string>
+    <string name="woocommerce_url">https://www.roupasafricanas.com</string>
+
+    <string name="onesignal_app_id">93ce87d5-b0ee-4aaa-9ef2-fcc404cd9413</string>
+    <string name="onesignal_google_project_number">136111938363</string>
+
+    <!-- About text, you can use basic html, stay between [ and ] -->
+    <string name="about_text"><![CDATA[
+    <b>Version 1.0</b>
+    <br><br>Obrigado por baixar nosso aplicativo<br><br>
+    <i>Por Yann Amoussou&#174;</i>
+    ]]></string>
+
+    <!-- Enter your Google Play billing details to enable In-App purchases -->
+    <string name="google_play_license"></string>
+    <string name="product_id"></string>
+
+    <!-- Enter a ADMOB ID if you would like to display ads-->
+    <string name="admob_banner_id">ca-app-pub-2085609922443997/1957889518</string>
+    <string name="admob_interstitial_id">ca-app-pub-2085609922443997/6466806705</string>
+
+    <!-- Strings for optional translation below this line -->
+
+    <!-- twitter section -->
+    <string name="name">Nome</string>
+    <string name="username">Apelido</string>
+    <string name="profile_image">Foto de perfil</string>
+    <string name="message">Mensagem</string>
+
+    <string name="tweet_share_header">\'s tweet</string>
+
+    <!-- rss -->
+    <string name="ok">Ok</string>
+    <string name="feed_title_value">Título do feed</string>
+    <string name="feed_link_value">Descrição do feed</string>
+    <string name="feed_description_value">Link do feed</string>
+
+    <string name="btn_video">Reproduzir vídeo</string>
+    <string name="btn_audio">Reproduzir audio</string>
+
+    <!-- youtube -->
+    <string name="video_no_live_title">Em um intervalo</string>
+    <string name="video_no_live">Não há transmissões ao vivo disponíveis agora</string>
+    <string name="video_live">Selecione uma transmissão</string>
+    <string name="play_button">Reproduzir</string>
+
+    <string name="video_share_begin">"Acabei de ver este vídeo: "</string>
+    <string name="video_share_middle">" no aplicativo\""</string>
+    <string name="video_share_end">\" "</string>
+
+    <string name="video_subtitle_start">"Carregado a "</string>
+    <string name="video_subtitle_end">" por "</string>
+
+    <!--  webview  -->
+    <string name="webview_title">Web</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="notification_error_ssl_cert_invalid">O certificado de segurança do servidor não pôde ser verificado. Você gostaria de continuar mesmo assim?</string>
+
+    <string name="web_share_begin">"Olha o que eu vi no aplicativo \""</string>
+    <string name="web_share_end">"\" "</string>
+
+    <!-- favorites -->
+    <string name="item_del_text">Você está prestes a excluir todos os seus favoritos</string>
+    <string name="item_del_confirmation">Eu sei</string>
+    <string name="no_favorites">Você pode adicionar (mais) favoritos abrindo um item e selecionando \"favorite\"</string>
+    <string name="favorite_success">Esse item foi adicionado</string>
+    <string name="favorite_duplicate">Esse item já foi adicionado</string>
+    <string name="favorite_menu_delete">Deletar</string>
+
+    <!-- settings -->
+    <string name="settings_general_summary">Informações de nome de usuário e senha</string>
+    <string name="settings_general">General</string>
+
+    <string name="settings_showmenu_summary">Sim/Não</string>
+    <string name="settings_showmenu">Mostrar menu lateral ao iniciar</string>
+
+    <string name="settings_fontsize_summary">Tamanho de texto preferido para artigos e postagens</string>
+    <string name="settings_fontsize">Tamanho de texto</string>
+
+    <string name="settings_fontsize_xl">Extra Large</string>
+    <string name="settings_fontsize_l">Large</string>
+    <string name="settings_fontsize_m">Padrão</string>
+    <string name="settings_fontsize_s">Pequeno</string>
+    <string name="settings_fontsize_xs">Muito pequeno</string>
+
+    <string name="settings_other_summary">Outras informações</string>
+    <string name="settings_other">Outros</string>
+
+    <string name="settings_aboutus_summary">Informações sobre o nosso aplicativo</string>
+    <string name="settings_aboutus">Sobre</string>
+
+    <string name="settings_licenses_summary">Detalhes da licença para software de código aberto</string>
+    <string name="settings_licenses">Licenças de codigo aberto</string>
+
+    <string name="settings_rate_summary">Ajude outros usuários a conhecer este aplicativo</string>
+    <string name="settings_rate">Avaliar o aplicativo</string>
+
+    <string name="settings_billing_summary">Gerenciar suas compras no aplicativo</string>
+    <string name="settings_billing">Compras no aplicativo.</string>
+
+    <string name="settings_purchase_summary">Remove anúncios e desbloqueia mais conteúdo</string>
+    <string name="settings_purchase">Desbloqueie recursos extras</string>
+
+    <string name="settings_restore_purchase_success">As compras anteriores foram restauradas.</string>
+    <string name="settings_purchase_success">As compras anteriores foram restauradas.</string>
+    <string name="settings_purchase_fail">A compra falhou.</string>
+
+    <string name="dialog_purchase_title">Conteúdo bloqueado.</string>
+    <string name="dialog_purchase">Para visualizar este conteúdo, você precisa desbloquear a versão completa fazendo uma compra única. Isso também removerá os anúncios em todo o aplicativo e nos incentivará a produzir mais conteudos voltado para comunidade</string>
+
+    <!-- Wordpress -->
+    <string name="wordpress_subtitle_start">"Publicado "</string>
+    <string name="wordpress_subtitle_end">" por "</string>
+    <string name="related">Relacionado a isso</string>
+
+    <!-- Maps -->
+
+    <!-- media viewer and radio-->
+    <string name="volume_low">Aumente o seu volume!</string>
+    <string name="now_playing">Tocando agora</string>
+    <string name="toggle_fullscreen">alternar para o modo tela cheia</string>
+    <string name="notification_playing">Reproduzindo áudio - Transmissão ao vivo</string>
+    <string name="audio_notification">Reprodução de mídia em segundo plano</string>
+    <string name="error_retry">Falha ao conectar ao fluxo ... </string>
+    <string name="error_retry_later">Tente novamente em alguns segundos... </string>
+    <string name="radio_playing_other">Já está tocando em outra estação. Pressione play novamente para reproduzir esta estação.</string>
+
+    <!-- tumblr -->
+    <string name="image_descr">Image</string>
+    <string name="set">Set</string>
+    <string name="save">Save</string>
+    <string name="tumblr_share_begin">Check out this post I saw in</string>
+    <string name="saved">Saved at:</string>
+    <string name="set_confirm">Are you sure you would like to set this image as wallpaper?</string>
+    <string name="set_success">You have set a new Wallpaper!</string>
+
+    <!-- SoundCloud -->
+    <string name="duration">%1$d:%2$02d</string>
+    <string name="toast_track_added">Added to the playlist. Touch again to play now.</string>
+    <string name="playback_view_time">%1$02d:%2$02d</string>
+    <string name="play_all">Play all</string>
+
+    <!-- WooCommerce -->
+    <string name="checkout">Finalizar a compra</string>
+    <string name="total">Total</string>
+    <string name="cart_success">Adicionado ao carrinho</string>
+    <string name="order_success">Agradecemos pelo seu pedido!</string>
+    <string name="order_success_subtitle">Seu pedido foi recebido</string>
+    <string name="out_of_stock">Sem Estoque</string>
+    <string name="view_cart">Ver carrinho</string>
+    <string name="cart_title">Carrinho de compras</string>
+    <string name="cart_failed">Não foi possível fazer o checkout de seus itens..</string>
+    <string name="category">Categoria</string>
+    <string name="categories">Categorias</string>
+    <string name="latest_products">Ultímos Productos</string>
+    <string name="min_price">Preço minimo</string>
+    <string name="max_price">Maximum price</string>
+    <string name="tag">Tag</string>
+    <string name="weight">Weight</string>
+    <string name="sku">SKU</string>
+    <string name="filter">Filter</string>
+    <string name="tax_notice">Tax included</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="reviews">%2d Rating(s)</string>
+    <string name="no_reviews">No reviews yet</string>
+    <string name="order_items">#%d (%d Items)</string>
+    <string name="order_item">#%d (%s)</string>
+    <string name="no_user">Who are you?</string>
+    <string name="no_user_subtitle">Login with your store account to view your orders.</string>
+    <string name="no_order">You have no previous orders. Any orders you make while signed in will show up here.</string>
+    <string name="shop">Shop</string>
+    <string name="greeting">Hi %1s!</string>
+    <string name="sale">Sale</string>
+    <string name="featured">Featured</string>
+    <string name="quantity">%2d pcs</string>
+    <string name="quantity_picker">Select quantity</string>
+    <string name="cart_empty_title">Your cart is empty</string>
+    <string name="cart_empty_subtitle">Start shopping to fill your cart with items</string>
+    <string name="review">Reviews</string>
+    <string name="details">Details</string>
+    <string name="description">Description</string>
+    <string name="varations">Options</string>
+    <string name="varations_missing">Something went wrong with loading product variations</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="action_register_short">Cadastrar</string>
+    <string name="error_invalid_email">Este endereço de email é inválido</string>
+    <string name="error_invalid_password">Esta senha é muito curta</string>
+    <string name="error_incorrect_credentials">Os dados informados não conferem</string>
+    <string name="error_field_required">Esse campo é obrigatorio</string>
+    <string name="action_sign_out_success">Voc~e se desconectou</string>
+
+    <!-- Attachment & Media -->
+    <string name="background_audio">Reproduzindo áudio</string>
+    <string name="download_permission_explaination">Para fazer o download de arquivos, você precisa conceder a permissão para seu armazenamento. Uma vez consedida, você poderá prosseguir e fazer o download do arquivo.</string>
+    <string name="download_permission_grant">Conceder permissão</string>
+    <string name="download_unavailable">Você não pode baixar este conteúdo</string>
+    <string name="download_failed">Falha na tentativa de baixar</string>
+    <string name="download_open_failed">Nenhum aplicativo para abrir or arquivos</string>
+    <string name="action_download">Baixar</string>
+    <string name="wallpaper">Papel de parede</string>
+    <string name="wallpaper_success">O papel de parede foi inserido!</string>
+
+    <!-- general-->
+    <string name="settings">Configurações</string>
+    <string name="favorites">Favoritos</string>
+    <string name="invalid_configuration">As configurações não podem ser aplicadas</string>
+    <string name="share_header">Compaatilhar</string>
+    <string name="about_header">Sobre</string>
+    <string name="favorite_button">Favoritar</string>
+    <string name="open_button">Abrir</string>
+    <string name="textview_date">"Data: "</string>
+    <string name="loading">Carregando..</string>
+    <string name="empty_textview">Erro ao carregar os dados</string>
+    <string name="no_results">Sem resultado</string>
+    <string name="view_mode">Modo de visualização</string>
+    <string name="view_mode_compact">Compacto</string>
+    <string name="view_mode_normal">Normal</string>
+    <string name="view_mode_immersive">Immersivo</string>
+    <string name="no_results_subtitle">Não há nada para ver aqui.</string>
+    <string name="yes">Sim</string>
+    <string name="no_app">Você não tem nenhum aplicativo para abrir o URL</string>
+    <string name="cancel">Cancelar</string>
+    <string name="comments">Comentar</string>
+    <string name="share">Compatilhar</string>
+    <string name="info">Informações</string>
+    <string name="refresh">Atualizar</string>
+    <string name="already_loading">Já estamos carregando algum conteúdo novo!</string>
+    <string name="intent_failed">Falha ao iniciar o aplicativo externo.</string>
+    <string name="search_hint">Procurar</string>
+    <string name="search">Buscar</string>
+
+    <string name="drawer_open">Menu aberto</string>
+    <string name="drawer_close">Menu fechado</string>
+
+    <string name="permissions_required">Você precisa aceitar todas as permissões necessárias para acessar este conteúdo.</string>
+
+    <!-- Connection dialogs -->
+    <string name="dialog_connection_title">Servidores inacessíveis</string>
+    <string name="dialog_connection_description">Não podemos nos conectar com nossas APIs. Por favor, verifique se você configurou suas chaves e parâmetros de API conforme documentado!</string>
+    <string name="dialog_internet_title">Sem internet</string>
+    <string name="dialog_internet_description">Parece que você não tem conexão com a internet. Este aplicativo requer internet para obter o conteúdo mais recente. Você pode continuar vendo seus itens favoritos / offline!</string>
+    <string name="title_activity_woo_commerce_login">Entrar</string>
+
+</resources>

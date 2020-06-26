@@ -1,0 +1,197 @@
+[
+  {
+    "title":"Afro-notícias",
+    "drawable":"",
+    "submenu":"Bate-papo",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Africa",
+        "provider":"wordpress",
+        "arguments":[
+          "afroapaixonados.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Rede Social Afro",
+    "drawable":"",
+    "submenu":"Bate-papo",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Rede Social Afro",
+        "provider":"webview",
+        "arguments":[
+          "https://afroapaixonados.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Espaço Desabafo",
+    "drawable":"",
+    "submenu":"Bate-papo",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Espaço desabafo",
+        "provider":"webview",
+        "arguments":[
+          "https://afroapaixonados.com/desabafo-bloqueado/?post=19820"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Afro-biblioteca",
+    "drawable":"",
+    "submenu":"Literatura",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Afro-biblioteca",
+        "provider":"webview",
+        "arguments":[
+          "https://afroapaixonados.com/literatura/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Roupasafricanas.com",
+    "drawable":"",
+    "submenu":"Nossas lojas parceiras",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Loja",
+        "provider":"webview",
+        "arguments":[
+          "https://www.roupasafricanas.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Sorteios",
+    "drawable":"",
+    "submenu":"Nossas lojas parceiras",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Sorteios",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/roupasafricanas/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Acompanhe seu pedido",
+    "drawable":"",
+    "submenu":"Nossas lojas parceiras",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Pedidos",
+        "provider":"webview",
+        "arguments":[
+          "https://www.roupasafricanas.com/minha-conta/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Playlist de Musicas africanas",
+    "drawable":"",
+    "submenu":"Midias sociais",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Playlist de musicas africanas",
+        "provider":"webview",
+        "arguments":[
+          "https://afroapaixonados.com/musicas-em-alta/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Afro-influencedores",
+    "drawable":"",
+    "submenu":"Midias sociais",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Afro-influencedores",
+        "provider":"webview",
+        "arguments":[
+          "https://afroapaixonados.com/afro-influencedores/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Lugares da África",
+    "drawable":"",
+    "submenu":"Midias sociais",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Lugares da África",
+        "provider":"webview",
+        "arguments":[
+          "https://afroapaixonados.com/lugares-da-africa/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Radio Nativo Africano",
+    "drawable":"",
+    "submenu":"Midias sociais",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Radio Africa Gabão",
+        "provider":"radio",
+        "arguments":[
+          "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Nosso whatsapp",
+    "drawable":"",
+    "submenu":"Parceria ou suggestão",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Nosso whatsapp",
+        "provider":"webview",
+        "arguments":[
+          "https://wa.me/5561998019686"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Siga nosso Instagram",
+    "drawable":"",
+    "submenu":"Parceria ou suggestão",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Nosso Instagram",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/afroapaixonados"
+        ]
+      }
+    ]
+  }
+]
